@@ -8,3 +8,4 @@ class Student:
         return f"details of student-> Name:{self.fname} {self.lname} , Age: {self.age}"
 
 class enrolled(Student):
+    pass
